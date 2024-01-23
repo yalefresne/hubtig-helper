@@ -1,6 +1,7 @@
 # Projets
 .env
 venv
+json/*
 
 # Tools
 **.swp
